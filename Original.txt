@@ -1,1 +1,2 @@
 1.	This is the original document.
+2.	This change is made by local-calc-one.
